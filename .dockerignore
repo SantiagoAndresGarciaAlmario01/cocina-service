@@ -1,0 +1,5 @@
+.git/
+.m2/
+maven-settings.xml
+*.log
+.env
